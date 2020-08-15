@@ -1,0 +1,3 @@
+To compile and run sorting_main.c you need to have the 6 files - animal_data.txt, singly_LL_header.h, singly_LL_operations.c, sorting.h, sorting_functions_LL.c and sorting_main.c - in the same folder. The 3 .c files must be passed as command line arguments to gcc.
+
+The sorting functions have additional statements (such as declaration of noIter, noSwap etc.). This is not part of the sorting algorithm. I have included them to understand the number of iterations and swap each of the algorithms take. 
