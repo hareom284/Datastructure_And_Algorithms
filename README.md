@@ -1,2 +1,3 @@
 # Datastructure_And_Algorithms
-This is my datastructure and algorithms .
+
+(Divide and Conquer)[https://www.youtube.com/watch?v=2Rr2tW9zvRg]
