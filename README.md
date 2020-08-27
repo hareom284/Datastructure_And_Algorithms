@@ -6,7 +6,8 @@
                          
  
 # Asymptotic Notations Big O - Omega - Theta
-  * Big O
+  * [Big O](https://www.youtube.com/watch?v=Nd0XDY-jVHs&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=12)
+  
     * The function f(n) = O(g(n)),such that f(n)<= c*g(n) 
    
 
