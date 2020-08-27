@@ -5,11 +5,10 @@
                                       ||                     ||                            ||
                                       ||                     ||                            ||
                                       ||                     ||                            ||
-                                    Lower bound          Average bound                 Upper Bound        </pre>
+                                    Lower bound          Average bound                 Upper Bound        
                                     
-                                    
-                                    
-                                  
+                                    </pre>
+                         
  
 # Asymptotic Notations Big O - Omega - Theta
   * Big O
