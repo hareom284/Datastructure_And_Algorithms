@@ -1,7 +1,11 @@
 # Datastructure_And_Algorithms
   * [Algorithms](https://docs.google.com/document/d/1VsTYpN0uILWEBRk7ZFj5E38FxF0lp442qlHMAra_RVA/edit)
   
- <span style="color:red;"> 1 < log n < sqrt(n) < n log n < n< pow(n,2) < pow(n,3) ...<pow(2,n)<pow(3,n)... </span>
+ <span style="color:red;"> {1 < log n < sqrt(n) < n log n <{ n }< pow(n,2) < pow(n,3) ...<pow(2,n)<pow(3,n)... </span>}
+                                      ||                     ||                            ||
+                                      ||                     ||                            ||
+                                      ||                     ||                            ||
+                                    Lower bound          Average bound                 Upper Bound
  
 # Asymptotic Notations Big O - Omega - Theta
   * Big O
