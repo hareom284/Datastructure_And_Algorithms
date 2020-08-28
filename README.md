@@ -16,3 +16,6 @@
    *   [Divide and Conquer](https://www.youtube.com/watch?v=2Rr2tW9zvRg)
    
    *   
+TODO lists
+[] linear search
+[] binary search
