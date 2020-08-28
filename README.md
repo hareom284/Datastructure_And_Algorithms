@@ -17,5 +17,5 @@
    
    *   
 TODO lists
-[] linear search
-[] binary search
+[ ] linear search
+[ ] binary search
